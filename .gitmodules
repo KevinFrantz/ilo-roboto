@@ -1,0 +1,3 @@
+[submodule "arduino/nanpy-firmware"]
+	path = arduino/nanpy-firmware
+	url = git@github.com:nanpy/nanpy-firmware.git
